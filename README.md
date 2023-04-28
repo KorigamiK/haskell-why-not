@@ -2,7 +2,7 @@
 
 ## What is Haskell?
 
-It's a imperative functional language that everyone who
+It's a purely functional declarative programming language, that everyone who
 knows about it seems to enjoy but nobody works with it ¯\\_(ツ)_/¯
 
 This repository is a collection of my notes and exercises from the
